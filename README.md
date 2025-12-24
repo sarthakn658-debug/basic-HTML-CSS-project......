@@ -1,2 +1,2 @@
 # basic-HTML-CSS-project......
-This is mu first repo
+This is my first repo
